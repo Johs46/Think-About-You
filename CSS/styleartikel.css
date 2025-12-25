@@ -137,13 +137,14 @@ body {
     padding: 0;
     margin: 0 0 15px;
     font-weight: normal;
-    color: #666;
+    color: #252b48;
+    font-weight: bold;
+    text-align:center
 
 }
 .conteudo h2{
     font-weight: normal;
-    color: #252b48;
-    font-weight: bold;
+    color: #666;
 }
 
 .conteudo h3{
